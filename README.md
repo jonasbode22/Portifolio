@@ -4,7 +4,7 @@
 
 ---
 
-### 📍 Abril 2024 – Primeiros Passos com HTML e CSS
+### 📍 Abril 2025 – Primeiros Passos com HTML e CSS
 
 - 🚀 Projeto: Página de Apresentação
 - 🎯 Desafio: estruturar elementos com semântica e responsividade
@@ -13,7 +13,7 @@
 
 ---
 
-### 📍 Maio 2024 – Manipulando o DOM com JavaScript
+### 📍 Maio 2025 – Manipulando o DOM com JavaScript
 
 - 📌 Projeto: Lista de Tarefas (To-Do App)
 - 🧠 Aprendizado: Eventos, funções e `localStorage`
@@ -22,7 +22,7 @@
 
 ---
 
-### 📍 Junho 2024 – Testando Performance e Acessibilidade
+### 📍 Junho 2025 – Testando Performance e Acessibilidade
 
 - 🔍 Ferramenta: Lighthouse
 - 🎯 Meta: alcançar 100% de performance e acessibilidade
@@ -31,7 +31,7 @@
 
 ---
 
-### 📍 Julho 2024 – Publicação no GitHub Pages
+### 📍 Julho 2025 – Publicação no GitHub Pages
 
 - 🌐 Aprendizado: Deploy direto do GitHub
 - 🗂️ Configuração do repositório para Pages
